@@ -7,3 +7,7 @@
 #### 2. Python Data Analysis Basic
 
 * [파이썬 데이터 분석 기초](./python_data_analysis_basic.ipynb)
+
+#### 3. Introduction to Machine Learning
+
+* [기계 학습 입문](./introduction_to_machine_learning.ipynb)
