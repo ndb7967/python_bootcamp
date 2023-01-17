@@ -11,3 +11,5 @@
 #### 3. Introduction to Machine Learning
 
 * [기계 학습 입문](./introduction_to_machine_learning.ipynb)
+* [기본적인 기계학습 알고리즘을 활용한 의료 X-ray 이미지 분류](./basic_machine_learning_methods_for_medical_images.ipynb)
+* [기본적인 기계학습 알고리즘을 활용한 풍경(Scene) 이미지 분류](./basic_machine_learning_methods_for_scene_images.ipynb)
